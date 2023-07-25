@@ -1,0 +1,10 @@
+* cl-paymill
+
+A common lisp interface to the Paymill payment service API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/a0-prw/cl-paymill.git   |
+| commit  | f3b3279  |
+| systems | cl-paymill |
+|---------+-------------------------------------------|
+
